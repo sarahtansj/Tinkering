@@ -4,6 +4,6 @@ Repository containing portfolio of data science projects for academic, self lear
 
 ## Contents 
 
-* ### Machine Learning
+- ### Machine Learning
 
-   * [West Nile Virus Prediction] (https://github.com/sarahtansj/Tinkering/tree/master/West_Nile): Model to predict 
+   - [West Nile Virus Prediction] (https://github.com/sarahtansj/Tinkering/tree/master/West_Nile): Model to predict 
