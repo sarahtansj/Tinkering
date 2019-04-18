@@ -7,7 +7,7 @@ Repository containing portfolio of data science projects for academic, self lear
 - ### Machine Learning
 
    - [West Nile Virus prediction](https://github.com/sarahtansj/Tinkering/tree/master/West_Nile): Model to track the regions with the highest concentration of West Nile Viral mosquito vectors & predict potential outbreak using machine learning.
-   - [Kobe Bryant's shots prediction](https://github.com/sarahtansj/Tinkering/blob/master/Kobe/kobe_final.ipynb): 
+   - [Kobe Bryant's shots prediction](https://github.com/sarahtansj/Tinkering/blob/master/Kobe/kobe_final.ipynb): Project focusing on the usage of regularization techniques to improve the result of the linear regression model used.
 
 
 - ### Data analysis and visualization
