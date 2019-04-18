@@ -16,7 +16,7 @@ Repository containing portfolio of data science projects for academic, self lear
 
 - ### Data analysis and visualization
    - Python
-   
+      - [Drug usage of students](https://github.com/sarahtansj/DSI---Projects/blob/master/Project%202/DSI%20-%20Project%202.ipynb)
    
    
    - Tableau
