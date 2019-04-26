@@ -8,7 +8,7 @@ Repository containing portfolio of data science projects for academic, self lear
 
    - [West Nile Virus prediction](https://github.com/sarahtansj/Tinkering/tree/master/West_Nile): Model to track the regions with the highest concentration of West Nile Viral mosquito vectors & predict potential outbreak using machine learning.
    - [Kobe Bryant's shots prediction](https://github.com/sarahtansj/Tinkering/blob/master/Kobe/kobe_final.ipynb): Project focusing on the usage of regularization techniques to improve the result of the linear regression model used.
-   - [US Housing Price Predictor](https://github.com/sarahtansj/Tinkering/blob/master/US%20housing/ames_housing_final.ipynb): Model to predict pricing of houses given characteristics of homes.  
+   - [US Housing Price Predictor](https://github.com/sarahtansj/Tinkering/blob/master/US%20housing/ames_housing_final.ipynb): Developed multivariate regression models to reliably estimate the value of residential houses.  
    - [Web scraping job postings](https://github.com/sarahtansj/DSI---Projects/tree/master/Project%204): Built a webscraper to scrape data related job postings from job portal. Used Natural Language Processing to identify and analyze the in-demands skills for data-related careers.
    - [Netflix Movie Recommender](https://github.com/sarahtansj/Capstone): Built a movie recommendation system based on users' preferances, characteristics of the model. Developed a web application to to show the top 5 recommended movies using content-based filtering techniques.
 
