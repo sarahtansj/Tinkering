@@ -16,7 +16,7 @@ Repository containing portfolio of data science projects for academic, self lear
 
 - ### Data analysis and visualization
    - Python
-      -  [Fifa 19]
+      -  [Fifa 19](https://github.com/sarahtansj/Tinkering/blob/master/Fifa_19/Fifa%2019.ipynb): Data visualization on FIFA 19 data, looking into trends of countries, clubs and players.
    
    
    - Tableau
